@@ -74,12 +74,15 @@ hr {
 }
 
 /** navigation **/
+.nav-brand {
+  padding-top: 10px;
+}
 
 .navigation {
   background-color: var(--primary-color);
   color: white;
-  padding: 2rem;
-  border-bottom-left-radius: 2rem;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
 }
 
 .navigation .nav-brand {
