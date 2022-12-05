@@ -153,6 +153,10 @@ hr {
 
 /** footers **/
 
+.footer-header{
+  padding-bottom: 10px;
+}
+
 .footer {
   background-color: var(--primary-color);
   padding: 2rem 1rem;
