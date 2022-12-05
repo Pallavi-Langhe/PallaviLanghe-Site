@@ -106,6 +106,9 @@ hr {
 .navigation .link-active {
   font-weight: bold;
 }
+.intro{
+  text-align: center;
+}
 
 /** header **/
 
